@@ -27,4 +27,4 @@ const itemsBoughtArr = [
      
 
 
-console.log(`The cost of total items are $${total}`)
+console.log(`The cost of total items are $${total}`)//reduce method while using objects in behalf of array
